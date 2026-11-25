@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date: 25/11/2026
+## Reference Number: 26003462
+## Name: Janadhyaksha G
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -25,28 +25,62 @@ Benefits:
 • Lower prices for consumers.
 • Reduced supply chain inefficiencies.
 
-## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+## Proposed Solution – FarmBridge
+
+FarmBridge is a simple website that connects farmers directly with customers and shop owners.
+
+Farmers can upload their products, quantity and prices. Buyers can view the products and place orders directly.
+
+This helps farmers get better prices and customers buy products at reasonable rates. It also reduces the need for middlemen.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+
+We plan to use HTML, CSS and JavaScript for the website, Python for the backend and MySQL for storing data.
+
+The website will allow farmers to add products and buyers to place orders. Basic demand prediction can be added using previous orders. Nearby orders can be grouped to make delivery easier.
+
+**Flow Diagram:**
+
+```text
+   FARMER
+      |
+      v
+ Upload Products
+      |
+      v
+ FARMBridge Website
+      |
+      v
+ Buyers View Products
+      |
+      v
+ Place Orders
+      |
+      v
+ Arrange Delivery
+      |
+      v
+ Farmer Gets Payment
+```
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+
+This idea is possible to develop using basic web technologies.
+
+Farmers can use their mobile phones to upload products. Buyers can easily view and order them.
+
+Delivery arrangements and internet access may be challenges. Local collection centres and delivery partners can help solve these problems.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+
+1. Farmers can earn better prices.
+2. Customers can buy at lower prices.
+3. Middlemen can be reduced.
+4. Fresh products reach customers.
+5. Local farmers get more opportunities.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+
+1. Smart India Hackathon official problem statement.
+2. GitHub: https://github.com/selvasachein/SIH-26033.git
+3. Research on direct farmer-to-consumer marketplaces.
