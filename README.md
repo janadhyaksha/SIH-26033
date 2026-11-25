@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:25/11/2026
+## Reference Number: 26003462
+## Name: Janadhyaksha G
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,64 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+FarmBridge is a simple website that connects farmers directly with customers and shop owners.
 
-## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+Farmers can upload their products, quantity and prices. Buyers can view the products and place orders directly.
 
-## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+This helps farmers get better prices and customers buy products at reasonable rates. It also reduces the need for middlemen.
 
-## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+Technical Approach
 
-## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+We plan to use HTML, CSS and JavaScript for the website, Python for the backend and MySQL for storing data.
+
+The website will allow farmers to add products and buyers to place orders. Basic demand prediction can be added using previous orders. Nearby orders can be grouped to make delivery easier.
+
+Flow Diagram:
+
+   FARMER
+      |
+      v
+ Upload Products
+      |
+      v
+ FARMBridge Website
+      |
+      v
+ Buyers View Products
+      |
+      v
+ Place Orders
+      |
+      v
+ Arrange Delivery
+      |
+      v
+ Farmer Gets Payment
+
+Feasibility and Viability
+
+This idea is possible to develop using basic web technologies.
+
+Farmers can use their mobile phones to upload products. Buyers can easily view and order them.
+
+Delivery arrangements and internet access may be challenges. Local collection centres and delivery partners can help solve these problems.
+
+Impact and Benefits
+
+Farmers can earn better prices.
+
+Customers can buy at lower prices.
+
+Middlemen can be reduced.
+
+Fresh products reach customers.
+
+Local farmers get more opportunities.
+
+Research and References
+
+Smart India Hackathon official problem statement.
+
+GitHub: https://github.com/selvasachein/SIH-26033.git
+
+Research on direct farmer-to-consumer marketplaces.
